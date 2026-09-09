@@ -1,1 +1,15 @@
 /* Add your styles here. */
+
+h2 { color:red}
+#unique_identifier {front-style: normal;}
+
+body li {color : teal}
+h2 + p{color : blue}
+
+#yellow {color:yellow;}
+
+.bold{font-weight: bold;}
+
+p:hover {color:green;}
+
+@media(max-width: 500px){body{color:red;}}
