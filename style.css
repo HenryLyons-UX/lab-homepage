@@ -12,6 +12,11 @@ h2 + p{color : blue}
 
 p:hover {color:green;}
 
+a {color:green;}
+
 @media(max-width: 500px){body{color:red;}}
 
-.header {color: teal;}
+.header {background: lightblue;
+  padding: 10px;
+  width: 200px;
+  height: 50px;}
